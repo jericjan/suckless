@@ -1,0 +1,12 @@
+[submodule "st"]
+	path = st
+	url = https://github.com/jericjan/st.git
+[submodule "slstatus"]
+	path = slstatus
+	url = https://github.com/jericjan/slstatus.git
+[submodule "dwm"]
+	path = dwm
+	url = https://github.com/jericjan/dwm.git
+[submodule "dmenu"]
+	path = dmenu
+	url = https://github.com/jericjan/dmenu.git
