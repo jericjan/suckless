@@ -1,10 +1,7 @@
 # My suckless stuff
 
 ## Dependencies
-- network-manager-applet
-- feh for wallpaper
-- xorg-setxkbmap
-- base-devel libx11 libxft libxinerama freetype2 fontconfig
+Run `sudo pacman -S network-manager-applet feh xorg-setxkbmap base-devel libx11 libxft libxinerama freetype2 fontconfig xorg-xauth xorg-server`
 
 ## How To Use
 - Clone the project
