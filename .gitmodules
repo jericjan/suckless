@@ -1,12 +1,16 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/jericjan/st.git
+	branch = master
 [submodule "slstatus"]
 	path = slstatus
 	url = https://github.com/jericjan/slstatus.git
+	branch = master
 [submodule "dwm"]
 	path = dwm
 	url = https://github.com/jericjan/dwm.git
+	branch = master
 [submodule "dmenu"]
 	path = dmenu
 	url = https://github.com/jericjan/dmenu.git
+	branch = master
