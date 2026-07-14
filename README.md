@@ -1,8 +1,7 @@
 # My suckless stuff
 
 ## Dependencies
-- Run `sudo pacman -S network-manager-applet feh xorg-setxkbmap base-devel libx11 libxft libxinerama freetype2 fontconfig xorg-xauth xorg-server`
-- Install `MesloLGLDZ Nerd Font Mono`
+- (Arch) Run `sudo pacman -S network-manager-applet feh xorg-setxkbmap base-devel libx11 libxft libxinerama freetype2 fontconfig xorg-xauth xorg-server ttf-meslo-nerd`
 
 ## How To Use
 - Clone the project
